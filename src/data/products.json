@@ -1,0 +1,79 @@
+[
+    {
+      "id": 1,
+      "name": "Product A",
+      "description": "This is product A.",
+      "startingPrice": 100,
+      "currentHighestBid": null,
+      "bids": [],
+      "isSold": false,
+      "winningBidder": null
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "description": "This is product B.",
+      "startingPrice": 200,
+      "currentHighestBid": null,
+      "bids": [],
+      "isSold": false,
+      "winningBidder": null
+    },
+    {
+        "id": 3,
+        "name": "Product C",
+        "description": "This is product C",
+        "startingPrice": 200,
+        "currentHighestBid": null,
+        "bids": [],
+        "isSold": false,
+        "winningBidder": null
+      },
+      {
+        "id": 4,
+        "name": "Product D",
+        "description": "This is product D .",
+        "startingPrice": 200,
+        "currentHighestBid": null,
+        "bids": [],
+        "isSold": false,
+        "winningBidder": null
+      },
+      {
+        "id": 5,
+        "name": "Product E",
+        "description": "This is product E.",
+        "startingPrice": 200,
+        "currentHighestBid": null,
+        "bids": [],
+        "isSold": false,
+        "winningBidder": null
+      },
+      {
+        "id": 6,
+        "name": "Product F",
+        "description": "This is product F .",
+        "startingPrice": 200,
+        "currentHighestBid": null,
+        "bids": [],
+        "isSold": false,
+        "winningBidder": null
+      },
+      {
+        "id": 7,
+        "name": "Product G",
+        "description": "This is product G.",
+        "startingPrice": 200,
+        "currentHighestBid": null,
+        "bids": [],
+        "isSold": false,
+        "winningBidder": null
+      }
+      
+  ]
+
+
+
+
+  
+  
